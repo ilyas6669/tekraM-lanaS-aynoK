@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		008D97A6249D0A6500DFC398 /* PushNotificationSender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */; };
 		00C8BE7F249CD60300D5B0C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */; };
 		00C8BE81249CD60300D5B0C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */; };
 		00C8BE83249CD60300D5B0C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE82249CD60300D5B0C3 /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushNotificationSender.swift; sourceTree = "<group>"; };
 		00C8BE7B249CD60300D5B0C3 /* KonyaSanalMarket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KonyaSanalMarket.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			children = (
 				00C8BEA4249CEFA600D5B0C3 /* KonyaSanalMarket.entitlements */,
 				00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */,
+				008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */,
 				00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */,
 				00C8BE9A249CD7E200D5B0C3 /* SplashView.swift */,
 				00C8BE82249CD60300D5B0C3 /* ViewController.swift */,
@@ -239,6 +242,7 @@
 				00C8BE9B249CD7E300D5B0C3 /* SplashView.swift in Sources */,
 				00C8BE89249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld in Sources */,
 				00C8BE81249CD60300D5B0C3 /* SceneDelegate.swift in Sources */,
+				008D97A6249D0A6500DFC398 /* PushNotificationSender.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
