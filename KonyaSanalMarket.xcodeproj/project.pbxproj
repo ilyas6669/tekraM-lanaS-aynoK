@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -14,6 +14,13 @@
 		00C8BE89249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE87249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld */; };
 		00C8BE8B249CD60900D5B0C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00C8BE8A249CD60900D5B0C3 /* Assets.xcassets */; };
 		00C8BE8E249CD60900D5B0C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00C8BE8C249CD60900D5B0C3 /* LaunchScreen.storyboard */; };
+		00C8BE97249CD77200D5B0C3 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C8BE96249CD77200D5B0C3 /* WebKit.framework */; };
+		00C8BE9B249CD7E300D5B0C3 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE9A249CD7E200D5B0C3 /* SplashView.swift */; };
+		00C8BE9D249CD87400D5B0C3 /* Extension+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE9C249CD87400D5B0C3 /* Extension+Constraints.swift */; };
+		00C8BE9F249CDAF700D5B0C3 /* CheckInternet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE9E249CDAF700D5B0C3 /* CheckInternet.swift */; };
+		00C8BEA1249CE11A00D5B0C3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00C8BEA0249CE11900D5B0C3 /* GoogleService-Info.plist */; };
+		00C8BEA3249CEAF900D5B0C3 /* KonyaSanalMarket.xcworkspace in Resources */ = {isa = PBXBuildFile; fileRef = 00C8BEA2249CEAF900D5B0C3 /* KonyaSanalMarket.xcworkspace */; };
+		540AF0255CA33E6C02EE8187 /* Pods_KonyaSanalMarket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C249A0ACE2CB02A76580CCE2 /* Pods_KonyaSanalMarket.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,16 @@
 		00C8BE8A249CD60900D5B0C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00C8BE8D249CD60900D5B0C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00C8BE8F249CD60900D5B0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00C8BE96249CD77200D5B0C3 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		00C8BE9A249CD7E200D5B0C3 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		00C8BE9C249CD87400D5B0C3 /* Extension+Constraints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+Constraints.swift"; sourceTree = "<group>"; };
+		00C8BE9E249CDAF700D5B0C3 /* CheckInternet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckInternet.swift; sourceTree = "<group>"; };
+		00C8BEA0249CE11900D5B0C3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
+		00C8BEA2249CEAF900D5B0C3 /* KonyaSanalMarket.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = KonyaSanalMarket.xcworkspace; sourceTree = SOURCE_ROOT; };
+		00C8BEA4249CEFA600D5B0C3 /* KonyaSanalMarket.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KonyaSanalMarket.entitlements; sourceTree = "<group>"; };
+		C249A0ACE2CB02A76580CCE2 /* Pods_KonyaSanalMarket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KonyaSanalMarket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF930A47A3E8EDC6523DEB2C /* Pods-KonyaSanalMarket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KonyaSanalMarket.debug.xcconfig"; path = "Target Support Files/Pods-KonyaSanalMarket/Pods-KonyaSanalMarket.debug.xcconfig"; sourceTree = "<group>"; };
+		D08AB7D4647CC314E19580BA /* Pods-KonyaSanalMarket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KonyaSanalMarket.release.xcconfig"; path = "Target Support Files/Pods-KonyaSanalMarket/Pods-KonyaSanalMarket.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +50,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00C8BE97249CD77200D5B0C3 /* WebKit.framework in Frameworks */,
+				540AF0255CA33E6C02EE8187 /* Pods_KonyaSanalMarket.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +63,8 @@
 			children = (
 				00C8BE7D249CD60300D5B0C3 /* KonyaSanalMarket */,
 				00C8BE7C249CD60300D5B0C3 /* Products */,
+				00C8BE95249CD77100D5B0C3 /* Frameworks */,
+				47E4724DB6BCA295D276662E /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,16 +79,40 @@
 		00C8BE7D249CD60300D5B0C3 /* KonyaSanalMarket */ = {
 			isa = PBXGroup;
 			children = (
+				00C8BEA4249CEFA600D5B0C3 /* KonyaSanalMarket.entitlements */,
 				00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */,
 				00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */,
+				00C8BE9A249CD7E200D5B0C3 /* SplashView.swift */,
 				00C8BE82249CD60300D5B0C3 /* ViewController.swift */,
+				00C8BE9C249CD87400D5B0C3 /* Extension+Constraints.swift */,
+				00C8BE9E249CDAF700D5B0C3 /* CheckInternet.swift */,
 				00C8BE84249CD60300D5B0C3 /* Main.storyboard */,
 				00C8BE8A249CD60900D5B0C3 /* Assets.xcassets */,
 				00C8BE8C249CD60900D5B0C3 /* LaunchScreen.storyboard */,
 				00C8BE8F249CD60900D5B0C3 /* Info.plist */,
+				00C8BEA0249CE11900D5B0C3 /* GoogleService-Info.plist */,
 				00C8BE87249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld */,
+				00C8BEA2249CEAF900D5B0C3 /* KonyaSanalMarket.xcworkspace */,
 			);
 			path = KonyaSanalMarket;
+			sourceTree = "<group>";
+		};
+		00C8BE95249CD77100D5B0C3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				00C8BE96249CD77200D5B0C3 /* WebKit.framework */,
+				C249A0ACE2CB02A76580CCE2 /* Pods_KonyaSanalMarket.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		47E4724DB6BCA295D276662E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CF930A47A3E8EDC6523DEB2C /* Pods-KonyaSanalMarket.debug.xcconfig */,
+				D08AB7D4647CC314E19580BA /* Pods-KonyaSanalMarket.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -77,9 +122,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00C8BE92249CD60900D5B0C3 /* Build configuration list for PBXNativeTarget "KonyaSanalMarket" */;
 			buildPhases = (
+				6010873C19DC78186318C786 /* [CP] Check Pods Manifest.lock */,
 				00C8BE77249CD60300D5B0C3 /* Sources */,
 				00C8BE78249CD60300D5B0C3 /* Frameworks */,
 				00C8BE79249CD60300D5B0C3 /* Resources */,
+				7CC918D91758793EEFEEBD5D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -129,6 +176,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				00C8BE8E249CD60900D5B0C3 /* LaunchScreen.storyboard in Resources */,
+				00C8BEA1249CE11A00D5B0C3 /* GoogleService-Info.plist in Resources */,
+				00C8BEA3249CEAF900D5B0C3 /* KonyaSanalMarket.xcworkspace in Resources */,
 				00C8BE8B249CD60900D5B0C3 /* Assets.xcassets in Resources */,
 				00C8BE86249CD60300D5B0C3 /* Main.storyboard in Resources */,
 			);
@@ -136,13 +185,58 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6010873C19DC78186318C786 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-KonyaSanalMarket-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7CC918D91758793EEFEEBD5D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-KonyaSanalMarket/Pods-KonyaSanalMarket-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-KonyaSanalMarket/Pods-KonyaSanalMarket-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-KonyaSanalMarket/Pods-KonyaSanalMarket-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		00C8BE77249CD60300D5B0C3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00C8BE9F249CDAF700D5B0C3 /* CheckInternet.swift in Sources */,
 				00C8BE83249CD60300D5B0C3 /* ViewController.swift in Sources */,
 				00C8BE7F249CD60300D5B0C3 /* AppDelegate.swift in Sources */,
+				00C8BE9D249CD87400D5B0C3 /* Extension+Constraints.swift in Sources */,
+				00C8BE9B249CD7E300D5B0C3 /* SplashView.swift in Sources */,
 				00C8BE89249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld in Sources */,
 				00C8BE81249CD60300D5B0C3 /* SceneDelegate.swift in Sources */,
 			);
@@ -286,15 +380,18 @@
 		};
 		00C8BE93249CD60900D5B0C3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CF930A47A3E8EDC6523DEB2C /* Pods-KonyaSanalMarket.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KonyaSanalMarket/KonyaSanalMarket.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NKR82GFQ5B;
 				INFOPLIST_FILE = KonyaSanalMarket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ilyas666.KonyaSanalMarket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ilyas666.KonyaSanalMarket666;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -303,15 +400,18 @@
 		};
 		00C8BE94249CD60900D5B0C3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D08AB7D4647CC314E19580BA /* Pods-KonyaSanalMarket.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KonyaSanalMarket/KonyaSanalMarket.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NKR82GFQ5B;
 				INFOPLIST_FILE = KonyaSanalMarket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ilyas666.KonyaSanalMarket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ilyas666.KonyaSanalMarket666;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

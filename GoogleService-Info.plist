@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>552406128676-kjhg94ubv3f9u668crsutk70ggo8pom6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.552406128676-kjhg94ubv3f9u668crsutk70ggo8pom6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>552406128676-ohip9bqorfh3di6vdubr1d63kq0gj903.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoPJKR_Ni02YkqDV-hJfd4O8fo-1GKqIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>552406128676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ilyas666.KonyaSanalMarket666</string>
+	<key>PROJECT_ID</key>
+	<string>besyol-com-tr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>besyol-com-tr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:552406128676:ios:6f2dd0df3020cc6f8ae0b1</string>
+	<key>DATABASE_URL</key>
+	<string>https://besyol-com-tr.firebaseio.com</string>
+</dict>
+</plist>
