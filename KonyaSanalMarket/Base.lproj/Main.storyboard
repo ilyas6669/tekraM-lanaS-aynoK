@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="xaJ-1h-S73">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="gJp-Po-llY">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
@@ -23,6 +23,48 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="117.85714285714285"/>
         </scene>
+        <!--Item-->
+        <scene sceneID="DnD-Qp-YIc">
+            <objects>
+                <viewController storyboardIdentifier="View2" useStoryboardIdentifierAsRestorationIdentifier="YES" id="rwk-eR-6ZS" customClass="View2" customModule="KonyaSanalMarket" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="iFJ-2B-S4Z">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8P8-yS-WZa">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="medium" translatesAutoresizingMaskIntoConstraints="NO" id="hQx-do-ASY">
+                                <rect key="frame" x="197" y="438" width="20" height="20"/>
+                                <color key="color" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="hQx-do-ASY" firstAttribute="centerY" secondItem="iFJ-2B-S4Z" secondAttribute="centerY" id="1eX-e0-A0K"/>
+                            <constraint firstItem="hQx-do-ASY" firstAttribute="centerX" secondItem="iFJ-2B-S4Z" secondAttribute="centerX" id="2Fw-Vd-NXb"/>
+                            <constraint firstItem="hoM-ev-GHl" firstAttribute="bottom" secondItem="8P8-yS-WZa" secondAttribute="bottom" id="6Bl-oO-vqA"/>
+                            <constraint firstItem="8P8-yS-WZa" firstAttribute="leading" secondItem="hoM-ev-GHl" secondAttribute="leading" id="QaV-c3-fMJ"/>
+                            <constraint firstItem="8P8-yS-WZa" firstAttribute="top" secondItem="hoM-ev-GHl" secondAttribute="top" id="vzO-Dv-QHG"/>
+                            <constraint firstItem="hoM-ev-GHl" firstAttribute="trailing" secondItem="8P8-yS-WZa" secondAttribute="trailing" id="x9e-51-MFL"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hoM-ev-GHl"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="ed2-1Y-Adr"/>
+                    <connections>
+                        <outlet property="ActInt" destination="hQx-do-ASY" id="Rh9-gY-vFg"/>
+                        <outlet property="webView" destination="8P8-yS-WZa" id="tle-V4-53v"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="V2m-l5-uzn" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1784" y="118"/>
+        </scene>
         <!--Navigation Controller-->
         <scene sceneID="xBz-FZ-Mq3">
             <objects>
@@ -39,7 +81,22 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Fip-gw-zpC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="137.68115942028987" y="117.85714285714285"/>
+            <point key="canvasLocation" x="326" y="118"/>
+        </scene>
+        <!--Splash View-->
+        <scene sceneID="r9v-Dl-JnK">
+            <objects>
+                <viewController storyboardIdentifier="SplashView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="gJp-Po-llY" customClass="SplashView" customModule="KonyaSanalMarket" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="UqJ-ON-XhU">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="G6R-MC-xBE"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Q0P-zu-aKh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-359" y="118"/>
         </scene>
     </scenes>
 </document>

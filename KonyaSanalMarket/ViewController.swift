@@ -12,7 +12,7 @@ import WebKit
 
 class ViewController: UIViewController {
     
-    private lazy var url = URL(string: "https://www.besyol.com.tr")!
+    private lazy var url = URL(string: "")!
     private weak var webView: WKWebView!
     var ActInt = UIActivityIndicatorView()
     
@@ -21,14 +21,25 @@ class ViewController: UIViewController {
         self.url = url
         navigationItem.title = ""
     }
-    
     required init?(coder aDecoder: NSCoder) { super.init(coder: aDecoder) }
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
+       
+        print("Nicatalibli:ViewControlelr:\(Cache.website)")
+        
+        if Cache.website == ""{
+            url = URL(string: "https://www.besyol.com.tr")!
+        }else{
+            url = URL(string: "\(Cache.website)")!
+        }
+
+        
         initWebView()
         webView.loadPage(address: url)
         
+        ActInt.color = .black
         webView.addSubview(ActInt)
         ActInt.merkezKonumlamdirmaSuperView()
         ActInt.startAnimating()

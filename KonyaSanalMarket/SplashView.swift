@@ -30,6 +30,7 @@ class SplashView: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
       
+        print("Nicatalibli:SplashView\(Cache.website)")
         
         view.backgroundColor = .white
         addSubview()

@@ -12,17 +12,15 @@ import Firebase
 import FirebaseMessaging
 import UserNotifications
 
+
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate: UIResponder, UIApplicationDelegate,UIWindowSceneDelegate {
     
     let gcmMessageIDKey = "gcm.message_id"
-    
-     var window: UIWindow?
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         FirebaseApp.configure()
-        
         Messaging.messaging().delegate = self
         
         if #available(iOS 10.0, *) {
@@ -75,30 +73,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // With swizzling disabled you must set the APNs token here.
         Messaging.messaging().apnsToken = deviceToken
     }
-    
-    func userNotificationCenter(_ center: UNUserNotificationCenter,
-                                didReceive response: UNNotificationResponse,
-                                withCompletionHandler completionHandler: @escaping () -> Void) {
-        let userInfo = response.notification.request.content.userInfo
-        // Print message ID.
-        if let messageID = userInfo[gcmMessageIDKey] {
-            print("Message ID: \(messageID)")
-        }
-        
-        // Print full message.
-        print(userInfo)
-        
-        let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
-        let presentViewController = storyBoard.instantiateViewController(withIdentifier: "ViewController") as! ViewController
-        
-        //            presentViewController.yourDict = userInfo //pass userInfo data to viewController
-        self.window?.rootViewController = presentViewController
-        presentViewController.present(presentViewController, animated: true, completion: nil)
-        
-        completionHandler()
-    }
-}
-    
     
     
     // MARK: UISceneSession Lifecycle
@@ -181,4 +155,65 @@ extension AppDelegate : MessagingDelegate {
         print("Received data message: \(remoteMessage.appData)")
     }
     // [END ios_10_data_message]
+}
+
+@available(iOS 10, *)
+extension AppDelegate : UNUserNotificationCenterDelegate {
+    
+    // Receive displayed notifications for iOS 10 devices.
+    func userNotificationCenter(_ center: UNUserNotificationCenter,
+                                willPresent notification: UNNotification,
+                                withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        let userInfo = notification.request.content.userInfo
+        
+        
+        // With swizzling disabled you must let Messaging know about the message, for Analytics
+        // Messaging.messaging().appDidReceiveMessage(userInfo)
+        // Print message ID.
+        if let messageID = userInfo[gcmMessageIDKey] {
+            
+            let website = userInfo["website"]as? NSString
+            let website2 = userInfo["website"]as? String
+            
+            
+            print("Message ID: \(messageID)")
+        }
+        
+        if let aps = userInfo["aps"] as? NSDictionary
+        {
+            let website = aps["website"]as? NSString
+            let website2 = aps["website"]as? String
+            
+            
+            
+        }
+        
+        
+        print("link1\(userInfo)")
+        
+        // Change this to your preferred presentation option
+        completionHandler([.alert, .badge, .sound])
+    }
+    
+    func userNotificationCenter(_ center: UNUserNotificationCenter,
+                                didReceive response: UNNotificationResponse,
+                                withCompletionHandler completionHandler: @escaping () -> Void) {
+        let userInfo = response.notification.request.content.userInfo
+        // Print message ID.
+        if let messageID = userInfo[gcmMessageIDKey] {
+            
+            let website = userInfo["website"]as? NSString
+            let website2 = userInfo["website"]as? String
+            
+            print("Nicatalibli:WebsiteInAppDelegate\(website2)")
+            
+            Cache.website = website2!
+            
+        }
+        
+        // Print full message.
+        print("link2\(userInfo)")
+        
+        completionHandler()
+    }
 }
