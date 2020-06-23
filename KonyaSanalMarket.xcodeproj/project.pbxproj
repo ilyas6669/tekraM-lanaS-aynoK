@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0073B1F3249E292D00AA8B1E /* Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0073B1F2249E292D00AA8B1E /* Cache.swift */; };
+		007BAF1024A23A5A000DF176 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007BAF0F24A23A5A000DF176 /* View2.swift */; };
 		008D97A6249D0A6500DFC398 /* PushNotificationSender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */; };
 		00C8BE7F249CD60300D5B0C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */; };
 		00C8BE81249CD60300D5B0C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */; };
@@ -27,8 +28,9 @@
 
 /* Begin PBXFileReference section */
 		0073B1F2249E292D00AA8B1E /* Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cache.swift; sourceTree = "<group>"; };
+		007BAF0F24A23A5A000DF176 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
 		008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushNotificationSender.swift; sourceTree = "<group>"; };
-		00C8BE7B249CD60300D5B0C3 /* KonyaSanalMarket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KonyaSanalMarket.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		00C8BE7B249CD60300D5B0C3 /* Konya Sanal Market.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Konya Sanal Market.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00C8BE7E249CD60300D5B0C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00C8BE80249CD60300D5B0C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		00C8BE82249CD60300D5B0C3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,7 +77,7 @@
 		00C8BE7C249CD60300D5B0C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00C8BE7B249CD60300D5B0C3 /* KonyaSanalMarket.app */,
+				00C8BE7B249CD60300D5B0C3 /* Konya Sanal Market.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,6 +91,7 @@
 				008D97A5249D0A6500DFC398 /* PushNotificationSender.swift */,
 				00C8BE9A249CD7E200D5B0C3 /* SplashView.swift */,
 				00C8BE82249CD60300D5B0C3 /* ViewController.swift */,
+				007BAF0F24A23A5A000DF176 /* View2.swift */,
 				0073B1F2249E292D00AA8B1E /* Cache.swift */,
 				00C8BE9C249CD87400D5B0C3 /* Extension+Constraints.swift */,
 				00C8BE9E249CDAF700D5B0C3 /* CheckInternet.swift */,
@@ -124,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00C8BE7A249CD60300D5B0C3 /* KonyaSanalMarket */ = {
+		00C8BE7A249CD60300D5B0C3 /* Konya Sanal Market */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00C8BE92249CD60900D5B0C3 /* Build configuration list for PBXNativeTarget "KonyaSanalMarket" */;
+			buildConfigurationList = 00C8BE92249CD60900D5B0C3 /* Build configuration list for PBXNativeTarget "Konya Sanal Market" */;
 			buildPhases = (
 				6010873C19DC78186318C786 /* [CP] Check Pods Manifest.lock */,
 				00C8BE77249CD60300D5B0C3 /* Sources */,
@@ -138,9 +141,9 @@
 			);
 			dependencies = (
 			);
-			name = KonyaSanalMarket;
+			name = "Konya Sanal Market";
 			productName = KonyaSanalMarket;
-			productReference = 00C8BE7B249CD60300D5B0C3 /* KonyaSanalMarket.app */;
+			productReference = 00C8BE7B249CD60300D5B0C3 /* Konya Sanal Market.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -159,7 +162,7 @@
 				};
 			};
 			buildConfigurationList = 00C8BE76249CD60300D5B0C3 /* Build configuration list for PBXProject "KonyaSanalMarket" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -171,7 +174,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				00C8BE7A249CD60300D5B0C3 /* KonyaSanalMarket */,
+				00C8BE7A249CD60300D5B0C3 /* Konya Sanal Market */,
 			);
 		};
 /* End PBXProject section */
@@ -243,6 +246,7 @@
 				00C8BE7F249CD60300D5B0C3 /* AppDelegate.swift in Sources */,
 				00C8BE9D249CD87400D5B0C3 /* Extension+Constraints.swift in Sources */,
 				00C8BE9B249CD7E300D5B0C3 /* SplashView.swift in Sources */,
+				007BAF1024A23A5A000DF176 /* View2.swift in Sources */,
 				0073B1F3249E292D00AA8B1E /* Cache.swift in Sources */,
 				00C8BE89249CD60300D5B0C3 /* KonyaSanalMarket.xcdatamodeld in Sources */,
 				00C8BE81249CD60300D5B0C3 /* SceneDelegate.swift in Sources */,
@@ -396,7 +400,7 @@
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = NKR82GFQ5B;
 				INFOPLIST_FILE = KonyaSanalMarket/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -419,7 +423,7 @@
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = NKR82GFQ5B;
 				INFOPLIST_FILE = KonyaSanalMarket/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -444,7 +448,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00C8BE92249CD60900D5B0C3 /* Build configuration list for PBXNativeTarget "KonyaSanalMarket" */ = {
+		00C8BE92249CD60900D5B0C3 /* Build configuration list for PBXNativeTarget "Konya Sanal Market" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00C8BE93249CD60900D5B0C3 /* Debug */,

@@ -21,7 +21,11 @@ class SplashView: UIViewController {
     var activityIndicator : UIActivityIndicatorView = {
         var indicator = UIActivityIndicatorView()
         indicator.hidesWhenStopped = true
-        indicator.style = .medium
+        if #available(iOS 13.0, *) {
+            indicator.style = .medium
+        } else {
+            // Fallback on earlier versions
+        }
         indicator.color = .black
         indicator.translatesAutoresizingMaskIntoConstraints = false
         return indicator
@@ -45,7 +49,7 @@ class SplashView: UIViewController {
         
         if CheckInternet.Connection(){
             
-            perform(#selector(toHomePage), with: nil,afterDelay: 2)
+            perform(#selector(toHomePage), with: nil,afterDelay: 1)
             
         }
             
@@ -79,7 +83,13 @@ class SplashView: UIViewController {
     func Alert (Message: String){
         
         let alert = UIAlertController(title: "Uyarı", message: Message, preferredStyle: UIAlertController.Style.alert)
-        alert.addAction(UIAlertAction(title: "ok", style: UIAlertAction.Style.default, handler: nil))
+        let action = UIAlertAction(title: "Yeniden dene", style: .destructive) { (action) in
+            print("test")
+            let splashView = SplashView()
+            splashView.modalPresentationStyle = .fullScreen
+            self.present(splashView, animated: false, completion: nil)
+        }
+        alert.addAction(action)
         self.present(alert, animated: true, completion: nil)
         
     }
