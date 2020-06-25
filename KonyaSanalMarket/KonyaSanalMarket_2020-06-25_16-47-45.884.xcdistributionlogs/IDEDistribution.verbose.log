@@ -1,0 +1,1972 @@
+2020-06-25 12:47:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:45 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:47 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:47 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6ab5d4a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework'>
+2020-06-25 12:47:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>
+2020-06-25 12:47:47 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>
+2020-06-25 12:47:47 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6b182de0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6e609c90:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6a67b1a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>
+2020-06-25 12:47:48 +0000  IDEDistributionItem init <DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>
+2020-06-25 12:47:48 +0000  Set distributionItems on context: (
+    "<IDEDistributionItem: 0x7fce6ad615d0; bundleID='com.ilyas666.KonyaSanalMarket666', path='<DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ad9af30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ad9c780; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(\n    \"1.2.840.113635.100.6.1.12\",\n    \"1.2.840.113635.100.6.1.2\"\n), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='{\n    \"application-identifier\" = \"NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666\";\n    \"aps-environment\" = development;\n    \"com.apple.developer.team-identifier\" = NKR82GFQ5B;\n    \"get-task-allow\" = 1;\n}', teamID='NKR82GFQ5B', identifier='com.ilyas666.KonyaSanalMarket666', executablePath='<DVTFilePath:0x7fce6a66d560:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Konya Sanal Market'>', hardenedRuntime='0'>'>"
+)
+2020-06-25 12:47:48 +0000  [OPTIONAL] Found platform <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x7fce6a928550; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''> for <DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Profile <IDEEmbeddedProvisioningProfile 0x7fce6ad6d930: name: iOS Team Provisioning Profile: com.ilyas666.KonyaSanalMarket666, UUID: 73d55d64-cfcb-4f5d-b10e-691b419aebbe, teamName: ismail tekin, teamIdentifierPrefixes: (
+    NKR82GFQ5B
+), entitlements: {
+    "application-identifier" = "NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = NKR82GFQ5B;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NKR82GFQ5B.*"
+    );
+}, appIdentifierName: KonyaSanalMarket, applicationIdentifierPrefixes: (
+    NKR82GFQ5B
+), dateCreated: 2020-06-23 21:45:38 +0000, dateExpired: 2021-06-23 21:45:38 +0000, certificateKinds: {(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+)}, certificateSHA1Hashes: {(
+    AD4F6A1A790F81723D2FB0CD8433309F55C42320
+)}, supportedUDIDs: {(
+    62bb7595ae45acd5843f0505993d289b4b3307c4,
+    de691baccd0de920eb0d69b6f9f8b4992a50ac5f
+)}, isUniversal: 0, isXcodeManaged: 1, platforms: {(
+    <DVTPlatform:0x7fce65db4ec0:'com.apple.platform.watchos':<DVTFilePath:0x7fce65db4e40:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform'>>,
+    <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>
+)}, filePath: <DVTFilePath:0x7fce6a647f70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/embedded.mobileprovision'>> for <DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'> was an automatic profile
+2020-06-25 12:47:48 +0000  [OPTIONAL] Found platform <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x7fce6ad36080; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''> for <DVTFilePath:0x7fce6b182de0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Found platform <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x7fce6ad36650; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''> for <DVTFilePath:0x7fce6ab5d4a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Found platform <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x7fce6a92c980; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''> for <DVTFilePath:0x7fce6e609c90:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework'>
+2020-06-25 12:47:48 +0000  [OPTIONAL] Found platform <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>> and cert <DVTSigningCertificate: 0x7fce6b43f360; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''> for <DVTFilePath:0x7fce6a67b1a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework'>
+2020-06-25 12:47:49 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:49 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:49 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:50 +0000  App Store Connect request for store configuration response: <IDEITunesConnectConfigurationResponse: 0x7fce6aec0830; isSuccessful='1', configuration='{
+    695LGZ67Y9 =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        695LGZ67Y9
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>
+2020-06-25 12:47:50 +0000  App Store Connect team IDs for account irfanbaskaya61@gmail.com are (
+    695LGZ67Y9
+)
+2020-06-25 12:47:51 +0000  App Store Connect request for store configuration response: <IDEITunesConnectConfigurationResponse: 0x7fce6ab7d390; isSuccessful='1', configuration='{
+    65HGM5WRRT =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        65HGM5WRRT
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>
+2020-06-25 12:47:51 +0000  App Store Connect team IDs for account oguzhnkaragoz@gmail.com are (
+    65HGM5WRRT
+)
+2020-06-25 12:47:51 +0000  App Store Connect request for store configuration response: <IDEITunesConnectConfigurationResponse: 0x7fce6a690dc0; isSuccessful='1', configuration='{
+    924G634MRT =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        924G634MRT
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>
+2020-06-25 12:47:51 +0000  App Store Connect team IDs for account 58halilibrahimoksum58@gmail.com are (
+    924G634MRT
+)
+2020-06-25 12:47:52 +0000  App Store Connect request for store configuration response: <IDEITunesConnectConfigurationResponse: 0x7fce6b14c2e0; isSuccessful='1', configuration='{
+    NKR82GFQ5B =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        NKR82GFQ5B
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>
+2020-06-25 12:47:52 +0000  App Store Connect team IDs for account bilgi@besyol.com.tr are (
+    NKR82GFQ5B
+)
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000  Default store submission configuration dictionary received = {
+    "com.apple.platform.appletvos" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+    "com.apple.platform.appletvsimulator" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+    "com.apple.platform.iphoneos" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+    "com.apple.platform.iphonesimulator" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+    "com.apple.platform.macosx" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    };
+    "com.apple.platform.watchos" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+    "com.apple.platform.watchsimulator" =     {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    };
+}
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000  Team based store submission configuration response received = {
+    NKR82GFQ5B =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        NKR82GFQ5B
+    );
+}
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:52 +0000  Team used to retrieve configuration = NKR82GFQ5B
+2020-06-25 12:47:52 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:53 +0000  Bundle ID based store submission configuration response received = {
+    "com.ilyas666.KonyaSanalMarket666" =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        NKR82GFQ5B
+    );
+}
+2020-06-25 12:47:53 +0000  Bundle ID used to retreive configuration = com.ilyas666.KonyaSanalMarket666
+2020-06-25 12:47:53 +0000  Platform (watchOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6b14a7f0: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 0>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (iOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a3b1680: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (macOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a44d5b0: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 0>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = pngInBinary;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = pngInBinary;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (tvOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6dc5a6b0: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (watchOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a3d2040: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (tvOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a66e410: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = carInBinary;
+            primaryIcons = carInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = carInBinary;
+            primaryIcons = carInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform (iOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a650a40: storeMC: 3, storeBC: 1, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:53 +0000  Platform to submission preferences result after merging and ingestion: {
+    "<DVTPlatform:0x7fce65db4ec0:'com.apple.platform.watchos':<DVTFilePath:0x7fce65db4e40:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6b14a7f0: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 0>";
+    "<DVTPlatform:0x7fce65c50a60:'com.apple.platform.iphonesimulator':<DVTFilePath:0x7fce65c509e0:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a3b1680: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65db7a30:'com.apple.platform.macosx':<DVTFilePath:0x7fce65db79c0:'/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a44d5b0: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 0>";
+    "<DVTPlatform:0x7fce65dba6a0:'com.apple.platform.appletvsimulator':<DVTFilePath:0x7fce65dba620:'/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6dc5a6b0: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65c2f0d0:'com.apple.platform.watchsimulator':<DVTFilePath:0x7fce65c2f050:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a3d2040: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65dadbf0:'com.apple.platform.appletvos':<DVTFilePath:0x7fce65dae9f0:'/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a66e410: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a650a40: storeMC: 3, storeBC: 1, devBC: YES, storeODR: 1>";
+} 
+2020-06-25 12:47:55 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:55 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:55 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:55 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:55 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:56 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:57 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:57 +0000 [MT] [Automatic Signing Assets Step]: Changing to state 0, errors (null), user action (null), controller class IDEDistributionProgressViewController
+2020-06-25 12:47:57 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:57 +0000 [MT] Locating signing assets
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a60d360; bundleID='org.cocoapods.Protobuf', path='<DVTFilePath:0x7fce6e609c90:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a61c330; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a684000; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.Protobuf', executablePath='<DVTFilePath:0x7fce6a63d210:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework/Protobuf'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6aec4260>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a60d360; bundleID='org.cocoapods.Protobuf', path='<DVTFilePath:0x7fce6e609c90:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a61c330; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ab47d10; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.Protobuf', executablePath='<DVTFilePath:0x7fce6a63d210:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework/Protobuf'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d55e1b0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a60d360; bundleID='org.cocoapods.Protobuf', path='<DVTFilePath:0x7fce6e609c90:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a61c330; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a645ec0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.Protobuf', executablePath='<DVTFilePath:0x7fce6a63d210:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/Protobuf.framework/Protobuf'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a31baf0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62b7e0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fce6ab5d4a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a62a560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce69174a80; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fce6b18cbf0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6ebcb140>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62b7e0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fce6ab5d4a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a62a560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6b22eb60; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fce6b18cbf0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d5226a0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62b7e0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fce6ab5d4a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a62a560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6b22e930; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fce6b18cbf0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a6792f0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a612740; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fce6a67b1a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab27bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ab5e310; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fce6b18fa10:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6d506010>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a612740; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fce6a67b1a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab27bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d5e15a0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fce6b18fa10:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d5a9de0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a612740; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fce6a67b1a0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab27bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6b25e5e0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fce6b18fa10:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a66d750>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62ad00; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6d8b7410; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ab4f5e0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6d551a00>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62ad00; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6d8b7410; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6b227ac0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d5f6420>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a62ad00; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6d8b7410; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ab4f870; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce6aa82cc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a687370>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad9a900; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab2ddb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6aedcc20; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6aede6c0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad9a900; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab2ddb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1f8150; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6b1874c0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad9a900; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab2ddb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a0f7420; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce6a683e40:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a6332d0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a0869a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fce6b182de0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a633a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ad9dcb0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fce6a673dc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6ca777d0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a0869a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fce6b182de0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a633a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d53d3f0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fce6a673dc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d5215b0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a0869a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fce6b182de0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a633a40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d53f690; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fce6a673dc0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6d240450>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad615d0; bundleID='com.ilyas666.KonyaSanalMarket666', path='<DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ad9af30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1fb820; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='{
+    "application-identifier" = "NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = NKR82GFQ5B;
+    "get-task-allow" = 1;
+}', teamID='NKR82GFQ5B', identifier='com.ilyas666.KonyaSanalMarket666', executablePath='<DVTFilePath:0x7fce6a66d560:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Konya Sanal Market'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6a270240>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad615d0; bundleID='com.ilyas666.KonyaSanalMarket666', path='<DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ad9af30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a935fa0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='{
+    "application-identifier" = "NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = NKR82GFQ5B;
+    "get-task-allow" = 1;
+}', teamID='NKR82GFQ5B', identifier='com.ilyas666.KonyaSanalMarket666', executablePath='<DVTFilePath:0x7fce6a66d560:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Konya Sanal Market'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d59aed0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ad615d0; bundleID='com.ilyas666.KonyaSanalMarket666', path='<DVTFilePath:0x7fce6aae92b0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ad9af30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a939d20; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='{
+    "application-identifier" = "NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = NKR82GFQ5B;
+    "get-task-allow" = 1;
+}', teamID='NKR82GFQ5B', identifier='com.ilyas666.KonyaSanalMarket666', executablePath='<DVTFilePath:0x7fce6a66d560:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Konya Sanal Market'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a679230>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ef0c2f0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a6424e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6b4382c0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6a92ae00>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ef0c2f0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a6424e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a9fa090; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6b187570>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ef0c2f0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a6424e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1dd770; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fce6ab41c70:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a633400>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ab2deb0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a96f540; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a9d0680; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce68d98fe0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ab2deb0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a96f540; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a9c8350; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6d59af40>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6ab2deb0; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a96f540; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a9bff30; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fce6b183040:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6d85abf0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a6139c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a613560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6ad43a00; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6aecf680>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a6139c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a613560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a9c8aa0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6aef74b0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a6139c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6a613560; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1e5ec0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce6ab41230:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a6819e0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a5f44a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab7bba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a99e530; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6aefa730>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a5f44a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab7bba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1e6560; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6aecd9f0>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a5f44a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6ab7bba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6a99d820; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce6aa887d0:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6aa74c20>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a61b290; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6adb2290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1f01d0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> from <IDEiCloudEntitlementsProcessor: 0x7fce6aec7110>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a61b290; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6adb2290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1f0cc0; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> from <IDEClassKitEntitlementsProcessor: 0x7fce6aecda60>: {
+}
+2020-06-25 12:47:57 +0000 [MT] Applying entitlements delta for <IDEDistributionItem: 0x7fce6a61b290; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce6adb2290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce6d1f4a80; name='Apple Development: ismail tekin (C5PVN7A6ZS)', hash='AD4F6A1A790F81723D2FB0CD8433309F55C42320', serialNumber='5DF51FA9F818F02E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-17 21:17:54 +0000''>', entitlements='(null)', teamID='NKR82GFQ5B', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce6ad62810:'/Users/ilyas666/Library/Developer/Xcode/Archives/2020-06-25/KonyaSanalMarket 6-25-20, 16.47.xcarchive/Products/Applications/Konya Sanal Market.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> from <IDEFoundation.IDEAppIdentifierPrefixedEntitlementsProcessor: 0x7fce6a68c040>: {
+}
+2020-06-25 12:47:59 +0000 [MT] Located signing assets: <IDEDistributionProvisioningEvaluation 0x7fce6d522a00: allItemEvaluations: (
+    "<IDEProvisionableStatusEvaluation 0x7fce6a934150: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ad89bb0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6ab5f7d0: name: nanopb.framework, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6b21f5c0: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: org.cocoapods.nanopb, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6b21f8a0; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a3a1270>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6ab3c170: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6ab61650: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6a928a60>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6abb5df0: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ab4d8a0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6a99bf90: name: libswiftCoreGraphics.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6d1edb10: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftCoreGraphics, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6d1ee3e0; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6d1ee9d0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6a99d140: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6a9d0580: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6ab226f0>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6a0f9b00: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ad8fc80: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6a430590: name: GoogleUtilities.framework, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6ab59dd0: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: org.cocoapods.GoogleUtilities, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6ab4e980; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a485ef0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6a52a030: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6ab7e2d0: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6b144680>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6b22fc90: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ad6a5c0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6d5fc310: name: libswiftDispatch.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6b13f560: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftDispatch, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6b144850; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a0c78b0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6d51af60: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6d5fc270: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6b21f650>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6ad65820: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ad65ad0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6a9d0310: name: libswiftCore.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6d1e5590: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftCore, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6d1e5550; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6d1e4be0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6a9ffba0: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6a9d0270: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6ad89c70>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6b22fd60: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6a9da160: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6d1e6720: name: libswiftDarwin.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6d1c3480: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftDarwin, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6d1ede40; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6d1c82d0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6d1ec670: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6d1e7d70: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6a645430>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6d1e4930: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6a934d20: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6a933b90: name: Konya Sanal Market.app, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6b436350: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 2, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.ilyas666.KonyaSanalMarket666, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6b436dc0; signedEntitlements='{\\n    \\\"application-identifier\\\" = \\\"NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666\\\";\\n    \\\"aps-environment\\\" = development;\\n    \\\"com.apple.developer.team-identifier\\\" = NKR82GFQ5B;\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6ab50e70>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6d1fb7c0: Features: {\\n    \\\"<DVTPortalProfileFeature: 0x7fce6ece2d40; id='.Push', userDescription='Push Notifications', portalKey='push', platforms='.macosx, .appletvos, .iphoneos, .watchos'>\\\" = 1;\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6a9295b0: configuration: Default, profileSupport: 2, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6d1e4900>:\nProfile:  <IDEEmbeddedProvisioningProfile 0x7fce6cd77470: name: iOS Team Store Provisioning Profile: com.ilyas666.KonyaSanalMarket666, UUID: b0c335bb-0a34-4fdc-99fb-e28c51648539, teamName: ismail tekin, teamIdentifierPrefixes: (\n    NKR82GFQ5B\n), entitlements: {\n    \"application-identifier\" = \"NKR82GFQ5B.com.ilyas666.KonyaSanalMarket666\";\n    \"aps-environment\" = production;\n    \"beta-reports-active\" = 1;\n    \"com.apple.developer.team-identifier\" = NKR82GFQ5B;\n    \"get-task-allow\" = 0;\n    \"keychain-access-groups\" =     (\n        \"NKR82GFQ5B.*\"\n    );\n}, appIdentifierName: KonyaSanalMarket, applicationIdentifierPrefixes: (\n    NKR82GFQ5B\n), dateCreated: 2020-06-19 15:48:35 +0000, dateExpired: 2021-06-19 13:36:33 +0000, certificateKinds: {(\n    \"1.2.840.113635.100.6.1.7\",\n    \"1.2.840.113635.100.6.1.4\"\n)}, certificateSHA1Hashes: {(\n    0EE52879DB47ECEC395792D3B794D987A9DC510E\n)}, supportedUDIDs: {(\n)}, isUniversal: 0, isXcodeManaged: 1, platforms: {(\n    <DVTPlatform:0x7fce65db4ec0:'com.apple.platform.watchos':<DVTFilePath:0x7fce65db4e40:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform'>>,\n    <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>\n)}, filePath: <DVTFilePath:0x7fce6c9eb590:'/Users/ilyas666/Library/MobileDevice/Provisioning Profiles/b0c335bb-0a34-4fdc-99fb-e28c51648539.mobileprovision'>>\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6a93af00: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6ab0aee0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6b25ea00: name: libswiftObjectiveC.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6b188080: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftObjectiveC, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6d513940; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6aeec6b0>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6ab1eb90: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6b25e960: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6aef1460>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6b251a50: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6d5b9060: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6a637d60: name: Protobuf.framework, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce69255930: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: org.cocoapods.Protobuf, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6a466a20; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a43d890>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6a649ca0: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6a649b00: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6a645460>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6b438820: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6abb5eb0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6d1e59a0: name: libswiftCoreFoundation.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6a99ad60: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftCoreFoundation, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6a9d04a0; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a999a50>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6ad40f60: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6d1e5900: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6ab2dc90>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6d5739b0: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6b438af0: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6b435f60: name: libswiftFoundation.dylib, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6a9cfe10: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: com.apple.dt.runtime.swiftFoundation, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6a9cfd70; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a9cfd90>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6b436700: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6b440980: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6b1aa480>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>",
+    "<IDEProvisionableStatusEvaluation 0x7fce6d539870: inputs: <IDEProvisionableStatusEvalutorInputs 0x7fce6d190e60: provisionableSnapshot: <IDEProvisionableSnapshot 0x7fce6b1446b0: name: FBLPromises.framework, configurations: {\n    Default = \"<_IDEProvisionableConfigurationSnapshot 0x7fce6d53d630: name: Default, provisioningStyle: 0, team: <IDEProvisioningDisambiguatableBasicTeam: 0x7fce6e59b3d0; teamID='NKR82GFQ5B', teamName='ismail tekin', teamType='Individual', username='bilgi@besyol.com.tr', isFreeProvisioningTeam='0'>, profileSupport: 0, platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), bundleIdentifier: org.cocoapods.FBLPromises, profileSpecifier: (null), certificateIdentifier: iPhone Distribution, entitlementsFilePath: (null), baseEntitlements: <IDEProvisionableEntitlements: 0x7fce6a92f500; signedEntitlements='{\\n}', simulatedEntitlements='(null)'>, entitlementsExpansion: <IDEDistributionProvisioningEntitlementsExpansion: 0x7fce6a934850>, entitlementsDestination: 1, allowSigningWithoutTeamSelection: 0, signingRequiresTeam: 0, appIDFeatures: <DVTPortalAppIDFeatures 0x7fce6ad9a9c0: Features: {\\n}, Containers: {\\n}>, provisioningPurpose: app-store, supportsIOSMac: 0>\";\n}, overrides: <IDEProvisionableOverrides 0x7fce6d539b40: configuration: Default, profileSupport: 0, provisioningStyle: (null), provisioningPurpose: app-store, team: (null), platform: <DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>, sdk: (null), sdkVariant: (null), profileSpecifier: (null), certificateIdentifier: (null), bundleIdentifier: (null), entitlements: (null), entitlementsFile: (null), baseEntitlements: (null), entitlementsExpansion: (null), entitlementsDestination: (null), allowSigningWithoutTeamSelection: (null), signingRequiresTeam: (null), appIDFeatures: (null)>>>, configuration: Default, codesignParameterSnapshot: <IDECodesignParameterSnapshot: 0x7fce6a94c8f0>:\nIdentity: 0EE52879DB47ECEC395792D3B794D987A9DC510E, errors: (null)>"
+), installerPackageEvaluation(optional): (null)>
+2020-06-25 12:47:59 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:59 +0000  Platform (watchOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6d513b20: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 0>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000  Platform (iOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a563290: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:59 +0000  Platform (macOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce69179150: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 0>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = pngInBinary;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = required;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = pngInBinary;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            supportLevel = unsupported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:47:59 +0000  Platform (tvOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6b14be60: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000  Platform (watchOS Simulator) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a46ee80: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = unsupported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = supported;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000  Platform (tvOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6a6247a0: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = carInBinary;
+            primaryIcons = carInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = required;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = carInBinary;
+            primaryIcons = carInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000  Platform (iOS) submission preference result (<IDEAppSubmissionPreference: 0x7fce6ab50870: storeMC: 3, storeBC: 1, devBC: YES, storeODR: 1>) for platform dictionaries to merge ((
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        onDemandResources =         {
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    },
+        {
+        architectures =         {
+            defaultArch =             {
+                defaultProductType =                 {
+                    format =                     {
+                        bitCode =                         {
+                            supportLevel = supported;
+                        };
+                        compiledCode =                         {
+                            supportLevel = deprecated;
+                        };
+                    };
+                };
+            };
+        };
+        iconSource =         {
+            largeAppIcon = unsupported;
+            primaryIcons = pngInBinary;
+        };
+        onDemandResources =         {
+            sizeLimits =             {
+                assetPack = 512000000;
+                total = 20000000000;
+            };
+            supportLevel = supported;
+        };
+    }
+))
+2020-06-25 12:47:59 +0000  Platform to submission preferences result after merging and ingestion: {
+    "<DVTPlatform:0x7fce65db4ec0:'com.apple.platform.watchos':<DVTFilePath:0x7fce65db4e40:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6d513b20: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 0>";
+    "<DVTPlatform:0x7fce65c50a60:'com.apple.platform.iphonesimulator':<DVTFilePath:0x7fce65c509e0:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a563290: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65db7a30:'com.apple.platform.macosx':<DVTFilePath:0x7fce65db79c0:'/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce69179150: storeMC: 2, storeBC: 0, devBC: YES, storeODR: 0>";
+    "<DVTPlatform:0x7fce65dba6a0:'com.apple.platform.appletvsimulator':<DVTFilePath:0x7fce65dba620:'/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6b14be60: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65c2f0d0:'com.apple.platform.watchsimulator':<DVTFilePath:0x7fce65c2f050:'/Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a46ee80: storeMC: 1, storeBC: 0, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65dadbf0:'com.apple.platform.appletvos':<DVTFilePath:0x7fce65dae9f0:'/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6a6247a0: storeMC: 3, storeBC: 2, devBC: YES, storeODR: 1>";
+    "<DVTPlatform:0x7fce65db24d0:'com.apple.platform.iphoneos':<DVTFilePath:0x7fce65db2450:'/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform'>>" = "<IDEAppSubmissionPreference: 0x7fce6ab50870: storeMC: 3, storeBC: 1, devBC: YES, storeODR: 1>";
+} 
+2020-06-25 12:48:02 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:48:02 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:50:21 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}
+2020-06-25 12:50:21 +0000 [MT] Available distribution methods: {(
+    <IDEDistributionMethodiOSAppStoreDistribution: 0x7fce6aa57f40>,
+    <IDEDistributionMethodAdHoc: 0x7fce6aab6640>,
+    <IDEDistributionMethodiOSEnterprise: 0x7fce6aa119f0>,
+    <IDEDistributionMethodDevelopmentSigned: 0x7fce6aa7bf20>
+)}

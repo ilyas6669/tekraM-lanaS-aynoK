@@ -162,40 +162,10 @@ extension AppDelegate : MessagingDelegate {
 @available(iOS 10, *)
 extension AppDelegate : UNUserNotificationCenterDelegate {
     
-    // Receive displayed notifications for iOS 10 devices.
-    func userNotificationCenter(_ center: UNUserNotificationCenter,
-                                willPresent notification: UNNotification,
-                                withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
-        let userInfo = notification.request.content.userInfo
-        
-        
-        // With swizzling disabled you must let Messaging know about the message, for Analytics
-        // Messaging.messaging().appDidReceiveMessage(userInfo)
-        // Print message ID.
-        if let messageID = userInfo[gcmMessageIDKey] {
-            
-            let website = userInfo["website"]as? NSString
-            let website2 = userInfo["website"]as? String
-            
-            
-            print("Message ID: \(messageID)")
-        }
-        
-        if let aps = userInfo["aps"] as? NSDictionary
-        {
-            let website = aps["website"]as? NSString
-            let website2 = aps["website"]as? String
-            
-            
-            
-        }
-        
-        
-        print("link1\(userInfo)")
-        
-        // Change this to your preferred presentation option
-        completionHandler([.alert, .badge, .sound])
-    }
+   func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void)
+   {
+       completionHandler([.alert, .badge, .sound])
+   }
     
     func userNotificationCenter(_ center: UNUserNotificationCenter,
                                 didReceive response: UNNotificationResponse,
@@ -207,15 +177,10 @@ extension AppDelegate : UNUserNotificationCenterDelegate {
             let website = userInfo["website"]as? NSString
             let website2 = userInfo["website"]as? String
             
-            print("Nicatalibli:WebsiteInAppDelegate\(website2)")
             
             Cache.website = website2!
             
         }
-        
-        // Print full message.
-        print("link2\(userInfo)")
-        
         completionHandler()
     }
 }

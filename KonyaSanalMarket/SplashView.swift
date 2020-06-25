@@ -33,7 +33,7 @@ class SplashView: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-      
+        
         print("Nicatalibli:SplashView\(Cache.website)")
         
         view.backgroundColor = .white
@@ -49,7 +49,13 @@ class SplashView: UIViewController {
         
         if CheckInternet.Connection(){
             
-            perform(#selector(toHomePage), with: nil,afterDelay: 1)
+            if Cache.website == ""{
+                perform(#selector(toHomePage), with: nil,afterDelay: 1)
+            }else{
+                perform(#selector(toHomePage2), with: nil,afterDelay: 1)
+            }
+            
+            
             
         }
             
@@ -76,6 +82,13 @@ class SplashView: UIViewController {
     @objc func toHomePage() {
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         let vc = storyboard.instantiateViewController(withIdentifier: "ViewController") as! ViewController
+        vc.modalPresentationStyle = .fullScreen
+        self.present(vc, animated: true, completion: nil)
+    }
+    
+    @objc func toHomePage2() {
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let vc = storyboard.instantiateViewController(withIdentifier: "View2") as! View2
         vc.modalPresentationStyle = .fullScreen
         self.present(vc, animated: true, completion: nil)
     }

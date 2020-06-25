@@ -1,0 +1,1063 @@
+2020-06-25 12:47:48 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:48 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:48 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:48 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  App Store Connect applications response: <IDEITunesConnectApplicationsResponse: 0x7f9296596660; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', applications='(
+    "<IDEITunesConnectApplicationDescription: 0x7f9296576ae0; adamID='1484641043', name='10 Numara Home', displayableDescription='10 Numara Home 1.3 (iOS App)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome'>",
+    "<IDEITunesConnectApplicationDescription: 0x7f9296591270; adamID='1498633489', name='Biinsan', displayableDescription='Biinsan 1.0 (iOS App)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.masterdesign2.biinsan'>",
+    "<IDEITunesConnectApplicationDescription: 0x7f9296593670; adamID='1513459349', name='Et Gros', displayableDescription='Et Gros 1.0 (iOS App)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Et-Gros'>",
+    "<IDEITunesConnectApplicationDescription: 0x7f92965a2f40; adamID='1513618245', name='Hasbahcem', displayableDescription='Hasbahcem 1.0 (iOS App)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem'>"
+)'>; error: (null)
+2020-06-25 12:47:49 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:48Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f9296513b10>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF5/a64RDWdzLnhjb2RlLmF1dGi9ADLPy6Wi6Jj/J3a2PXSXAEKuPFffET6+M8mOKXS1/EAd0ojG9ANVUN1KRV4r95Lx10zkUHIw2fL6u+kSMybTpargdLxpV8g+X/4kATfIK7UZE2mvRvktwBiFOkuQRZqrwIxXb9HTv8jfrm2bm+w2b8sWvzd1";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:44Z";
+    "X-Apple-I-Identity-Id" = "001091-08-4f1877ce-cada-4f8e-a34b-2aa426faa4e5";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f9296513b10>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF5/a64RDWdzLnhjb2RlLmF1dGi9ADLPy6Wi6Jj/J3a2PXSXAEKuPFffET6+M8mOKXS1/EAd0ojG9ANVUN1KRV4r95Lx10zkUHIw2fL6u+kSMybTpargdLxpV8g+X/4kATfIK7UZE2mvRvktwBiFOkuQRZqrwIxXb9HTv8jfrm2bm+w2b8sWvzd1";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "001091-08-4f1877ce-cada-4f8e-a34b-2aa426faa4e5";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:49 +0000  App Store Connect versions response: <IDEITunesConnectVersionsResponse: 0x7f9296750c80; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', versions='(
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296750b60; name='10 Numara Home', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome', marketingVersion='(null)', shortVersion='1.2', version='1.2', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296750bd0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296750cb0; sliceUUIDs='(\\n    \\\"542b4dd3-3acb-3bcf-8f43-a381a3f2d927\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple114/v4/ad/cc/89/adcc8943-008d-b088-5294-d8e4bde80c76/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png?downloadKey=1593694069_ec2a153383974659880b9a04b5788e54', extensions='(\n)', supportedOSVersions='(\n    \"11.0\",\n    \"11.1\",\n    \"11.2\",\n    \"11.3\",\n    \"11.4\",\n    \"12.0\",\n    \"12.1\",\n    \"12.2\",\n    \"12.3\",\n    \"12.4\",\n    \"13.0\",\n    \"13.1\",\n    \"13.2\",\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f92967405f0; name='10 Numara Home', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome', marketingVersion='(null)', shortVersion='1.0', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296741110; sliceUUIDs='(\\n    \\\"6dafa5d9-afcc-3e48-9fb2-72d1318f0c88\\\",\\n    \\\"07b4bba4-ee51-3d6b-919a-e6925d4f8ac8\\\"\\n)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f92967523c0; sliceUUIDs='(null)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple114/v4/ad/cc/89/adcc8943-008d-b088-5294-d8e4bde80c76/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png?downloadKey=1593694069_ec2a153383974659880b9a04b5788e54', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f92967450b0; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='1'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f92967647a0; name='10 Numara Home', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome', marketingVersion='(null)', shortVersion='1.3', version='1.3', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296745180; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296764810; sliceUUIDs='(\\n    \\\"542b4dd3-3acb-3bcf-8f43-a381a3f2d927\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple114/v4/ad/cc/89/adcc8943-008d-b088-5294-d8e4bde80c76/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png?downloadKey=1593694069_ec2a153383974659880b9a04b5788e54', extensions='(\n)', supportedOSVersions='(\n    \"11.0\",\n    \"11.1\",\n    \"11.2\",\n    \"11.3\",\n    \"11.4\",\n    \"12.0\",\n    \"12.1\",\n    \"12.2\",\n    \"12.3\",\n    \"12.4\",\n    \"13.0\",\n    \"13.1\",\n    \"13.2\",\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='1'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296764880; name='10 Numara Home', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome', marketingVersion='(null)', shortVersion='1.3', version='1.4', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f92967648f0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296764910; sliceUUIDs='(\\n    \\\"542b4dd3-3acb-3bcf-8f43-a381a3f2d927\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple114/v4/ad/cc/89/adcc8943-008d-b088-5294-d8e4bde80c76/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png?downloadKey=1593694069_ec2a153383974659880b9a04b5788e54', extensions='(\n)', supportedOSVersions='(\n    \"11.0\",\n    \"11.1\",\n    \"11.2\",\n    \"11.3\",\n    \"11.4\",\n    \"12.0\",\n    \"12.1\",\n    \"12.2\",\n    \"12.3\",\n    \"12.4\",\n    \"13.0\",\n    \"13.1\",\n    \"13.2\",\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296764980; name='10 Numara Home', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='net.appbeta.10numarahome', marketingVersion='(null)', shortVersion='1.1', version='1.1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f92967649f0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296764a10; sliceUUIDs='(\\n    \\\"542b4dd3-3acb-3bcf-8f43-a381a3f2d927\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple114/v4/ad/cc/89/adcc8943-008d-b088-5294-d8e4bde80c76/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png?downloadKey=1593694069_ec2a153383974659880b9a04b5788e54', extensions='(\n)', supportedOSVersions='(\n    \"11.0\",\n    \"11.1\",\n    \"11.2\",\n    \"11.3\",\n    \"11.4\",\n    \"12.0\",\n    \"12.1\",\n    \"12.2\",\n    \"12.3\",\n    \"12.4\",\n    \"13.0\",\n    \"13.1\",\n    \"13.2\",\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>"
+)'>; error: (null)
+2020-06-25 12:47:50 +0000  App Store Connect request for store configuration for user irfanbaskaya61@gmail.com; configuration: <IDEITunesConnectConfigurationResponse: 0x7f9296499ba0; isSuccessful='1', configuration='{
+    695LGZ67Y9 =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        695LGZ67Y9
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>; error (null)
+2020-06-25 12:47:50 +0000  App Store Connect versions response: <IDEITunesConnectVersionsResponse: 0x7f929657f600; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', versions='(
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296587ef0; name='Biinsan', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.masterdesign2.biinsan', marketingVersion='(null)', shortVersion='1.0', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296595ac0; sliceUUIDs='(\\n    \\\"3b97ac48-98f6-3068-82c9-04b2b0b376b8\\\"\\n)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296586a30; sliceUUIDs='(null)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple114/v4/42/72/e3/4272e377-7c12-52de-9a9f-bab7a16d3d1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg?downloadKey=1593694069_28fc53fa0e432c2c502be9cdac0a4be2', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f92965ae1f0; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.masterdesign2.biinsan.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"11.0\",\n    \"11.1\",\n    \"11.2\",\n    \"11.3\",\n    \"11.4\",\n    \"12.0\",\n    \"12.1\",\n    \"12.2\",\n    \"12.3\",\n    \"12.4\",\n    \"13.0\",\n    \"13.1\",\n    \"13.2\",\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='1'>"
+)'>; error: (null)
+2020-06-25 12:47:50 +0000  App Store Connect versions response: <IDEITunesConnectVersionsResponse: 0x7f9296752a40; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', versions='(
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296710270; name='Et Gros', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Et-Gros', marketingVersion='(null)', shortVersion='2', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296741be0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f92967236c0; sliceUUIDs='(\\n    \\\"df4fd6b1-e95b-3003-9d89-a1c4b232e468\\\"\\n)'>\"\n)', imageURL='https://a4.mzstatic.com/us/r30/Purple123/v4/40/22/a6/4022a6b2-a0b0-abf7-625b-aba4d25fcafc/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_ae2189dbff9ff26819e3375fb286f9cf', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f9296742c00; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Et-Gros.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='2', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='1'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f929674b510; name='Et Gros', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Et-Gros', marketingVersion='(null)', shortVersion='1.0', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296727870; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f92967454d0; sliceUUIDs='(\\n    \\\"cc218a0f-3f84-3558-adef-bd2fcf851b10\\\"\\n)'>\"\n)', imageURL='https://a4.mzstatic.com/us/r30/Purple123/v4/40/22/a6/4022a6b2-a0b0-abf7-625b-aba4d25fcafc/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_ae2189dbff9ff26819e3375fb286f9cf', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f92967222a0; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Et-Gros.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>"
+)'>; error: (null)
+2020-06-25 12:47:50 +0000  App Store Connect versions response: <IDEITunesConnectVersionsResponse: 0x7f929657eb10; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', versions='(
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296595060; name='Hasbahcem', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem', marketingVersion='(null)', shortVersion='2', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296593d00; sliceUUIDs='(\\n    \\\"33e1f0a9-0083-3500-a154-8ab6d1228bda\\\"\\n)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f929658ff20; sliceUUIDs='(null)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple113/v4/cb/34/c7/cb34c779-ff18-bae3-fdab-7eb88b79312c/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_a16f1caf3299dd7f33ff1068088808c7', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f929658bd50; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='2', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='1'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f92965a4b20; name='Hasbahcem', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem', marketingVersion='(null)', shortVersion='1.1.1', version='1.1.1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f929659eaf0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296591270; sliceUUIDs='(\\n    \\\"469216d8-d479-3748-92f0-cc056fe86643\\\"\\n)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple113/v4/cb/34/c7/cb34c779-ff18-bae3-fdab-7eb88b79312c/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_a16f1caf3299dd7f33ff1068088808c7', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f929659fa00; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296594800; name='Hasbahcem', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem', marketingVersion='(null)', shortVersion='2', version='2', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f929658e270; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296586680; sliceUUIDs='(\\n    \\\"33e1f0a9-0083-3500-a154-8ab6d1228bda\\\"\\n)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple113/v4/cb/34/c7/cb34c779-ff18-bae3-fdab-7eb88b79312c/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_a16f1caf3299dd7f33ff1068088808c7', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f9296588a30; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296593d40; name='Hasbahcem', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem', marketingVersion='(null)', shortVersion='1.1', version='1.1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f92965a35d0; sliceUUIDs='(\\n    \\\"469216d8-d479-3748-92f0-cc056fe86643\\\"\\n)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296584df0; sliceUUIDs='(null)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple113/v4/cb/34/c7/cb34c779-ff18-bae3-fdab-7eb88b79312c/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_a16f1caf3299dd7f33ff1068088808c7', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f929658a6e0; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f9296586e00; name='Hasbahcem', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem', marketingVersion='(null)', shortVersion='1.0', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296596530; sliceUUIDs='(\\n    \\\"469216d8-d479-3748-92f0-cc056fe86643\\\"\\n)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f92965941d0; sliceUUIDs='(null)'>\"\n)', imageURL='https://a2.mzstatic.com/us/r30/Purple113/v4/cb/34/c7/cb34c779-ff18-bae3-fdab-7eb88b79312c/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694070_a16f1caf3299dd7f33ff1068088808c7', extensions='(\n    \"<IDEITunesConnectExtensionVersionDescription: 0x7f9296598b30; name='OneSignalNotificationServiceExtension', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.Hasbahcem.OneSignalNotificationServiceExtension', marketingVersion='(null)', shortVersion='1.0', version='1', extensionPointIdentifier='com.apple.usernotifications.service'>\"\n)', supportedOSVersions='(\n    \"13.3\",\n    \"13.4\",\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>"
+)'>; error: (null)
+2020-06-25 12:47:50 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:50Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:50 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:50Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:50 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:49Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:50 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a3d20>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF69uusRDWdzLnhjb2RlLmF1dGi9AHzazX5NDRURv5bbVcUYjSOjEdkx6kLzGQN6yU1Fw4z8VOY1uPoPxOqX9tPQw9XTfVoJGSLgKa0DPNN/eebW1eafqXR0nz/Ln1Z3ORVEHdnHsInDu7BJeCibxUdsKzpt3b/D0NrALjGpK+w1ms2xq6UMVa9l";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:50Z";
+    "X-Apple-I-Identity-Id" = "000636-08-a30bbb1f-2960-4246-bf52-cdfc34751967";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:50Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  App Store Connect request for store configuration for user oguzhnkaragoz@gmail.com; configuration: <IDEITunesConnectConfigurationResponse: 0x7f929658a6e0; isSuccessful='1', configuration='{
+    65HGM5WRRT =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        65HGM5WRRT
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>; error (null)
+2020-06-25 12:47:51 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a2d90>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7hRm8RDWdzLnhjb2RlLmF1dGi9AKHhnUvw4X58OWlVMTyd7sAFnOnP4hJC+jwuKJZVAG+4vXrPE8EAJSR0haMH1rbDXhUtBYq6ls9SyBbSDykiDg9ULmZjBFVHZyKC4T2b+UDz/Waaq6hcCvoLyiNIowzdRBto3CMvzB1RLk+816XRWFZqI7I8";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "001910-08-f1a44122-976e-4543-a41f-66941eee2513";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  App Store Connect applications response: <IDEITunesConnectApplicationsResponse: 0x7f9296448cf0; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', applications='(
+)'>; error: (null)
+2020-06-25 12:47:51 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  App Store Connect request for store configuration for user 58halilibrahimoksum58@gmail.com; configuration: <IDEITunesConnectConfigurationResponse: 0x7f9296450d40; isSuccessful='1', configuration='{
+    924G634MRT =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        924G634MRT
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>; error (null)
+2020-06-25 12:47:51 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:51 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  App Store Connect request for store configuration for user bilgi@besyol.com.tr; configuration: <IDEITunesConnectConfigurationResponse: 0x7f9296722ab0; isSuccessful='1', configuration='{
+    NKR82GFQ5B =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        NKR82GFQ5B
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>; error (null)
+2020-06-25 12:47:52 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:51Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:52Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:52Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:52Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  App Store Connect applications response: <IDEITunesConnectApplicationsResponse: 0x7f92965965c0; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', applications='(
+    "<IDEITunesConnectApplicationDescription: 0x7f9296599320; adamID='1519447284', name='Konya Sanal Market', displayableDescription='Konya Sanal Market 1.0 (iOS App)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.KonyaSanalMarket666'>"
+)'>; error: (null)
+2020-06-25 12:47:52 +0000  Will refresh authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:52Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:52 +0000  Refreshed authentication context for Application Loader <<ITunesAuthenticationContextImpl: 0x7f92965a1540>: token: (null), headers: {
+    "X-Apple-App-Info" = "com.apple.gs.xcode.auth";
+    "X-Apple-GS-Token" = "AAAABLwIAAAAAF7qirMRDWdzLnhjb2RlLmF1dGi9ADsQ4624vvKjUYbgACA8EO5g9jhUdr5I1LeTEazo1kujIi8Zmb5ALNdMS/Kxq2lXDeUpgZ40W3GTtNyYx+na7kq2MnD+5kEXu7oxvXunMLieneE/zG9prwGmt5ney1WBGBRohsg31yjwAgqjnQ/cNIIBHhIv";
+    "X-Apple-I-Client-Time" = "2020-06-25T12:47:52Z";
+    "X-Apple-I-Identity-Id" = "000716-08-a0da40ad-febe-4b6b-ac48-86dad20a4242";
+    "X-Apple-I-Locale" = "en_AZ";
+    "X-Apple-I-MD" = "AAAABQAAABA2x36LTY4cTKmJOx7HwONtAAAAAQ==";
+    "X-Apple-I-MD-LU" = 01F77A853C1ACEA7FA00CF50FB9A9FBE1DB21B27C71CF44A8941CE771B22F284;
+    "X-Apple-I-MD-M" = "FEBlzUoAS9eDhRtBlcYTzysRQ8Rxmr0ap1F9BwnzCAE+AhiZ97bsUpezQjsIgHOKjPGzymi67vI2z40x";
+    "X-Apple-I-MD-RINFO" = 17106176;
+    "X-Apple-I-TimeZone" = "GMT+4";
+    "X-MMe-Client-Info" = "<MacBookAir8,1> <Mac OS X;10.15.4;19E266> <com.apple.AuthKit/1 (com.apple.dt.Xcode.ITunesSoftwareService/16139)>";
+    "X-Mme-Device-Id" = "FC38E42F-752E-53DB-81FB-AF7D62CE15AE";
+}>
+2020-06-25 12:47:53 +0000  App Store Connect request for store configuration for user bilgi@besyol.com.tr; bundleID: com.ilyas666.KonyaSanalMarket666; configuration: <IDEITunesConnectConfigurationResponse: 0x7f9296648f70; isSuccessful='1', configuration='{
+    "com.ilyas666.KonyaSanalMarket666" =     {
+        "com.apple.platform.appletvos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = carInBinary;
+                primaryIcons = carInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.iphoneos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = supported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                sizeLimits =                 {
+                    assetPack = 512000000;
+                    total = 20000000000;
+                };
+                supportLevel = supported;
+            };
+        };
+        "com.apple.platform.macosx" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = unsupported;
+                            };
+                            compiledCode =                             {
+                                supportLevel = required;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = pngInBinary;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        "com.apple.platform.watchos" =         {
+            architectures =             {
+                defaultArch =                 {
+                    defaultProductType =                     {
+                        format =                         {
+                            bitCode =                             {
+                                supportLevel = required;
+                            };
+                            compiledCode =                             {
+                                supportLevel = deprecated;
+                            };
+                        };
+                    };
+                };
+            };
+            iconSource =             {
+                largeAppIcon = unsupported;
+                primaryIcons = pngInBinary;
+            };
+            onDemandResources =             {
+                supportLevel = unsupported;
+            };
+        };
+        configModelVersion = "1.1";
+    };
+    preflight =     (
+        NKR82GFQ5B
+    );
+}', alertMessage='(null)', errors='(
+)', warnings='(
+)', infoMessages='(
+)'>; error (null)
+2020-06-25 12:47:53 +0000  App Store Connect versions response: <IDEITunesConnectVersionsResponse: 0x7f92965965c0; isSuccessful='1', errors='(
+)', warnings='(
+)', infoMessages='(
+)', versions='(
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f92965902e0; name='Konya Sanal Market', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.KonyaSanalMarket666', marketingVersion='(null)', shortVersion='1.0.1', version='2', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f92965b3eb0; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296590420; sliceUUIDs='(\\n    \\\"11d7f97c-2bfe-349c-bb2d-7c3973f56436\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple123/v4/b9/fe/d3/b9fed357-511b-cbb2-db3b-5ef31a7fa9d4/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694073_e3b8fe578cda1e206f6d730fe5be352a', extensions='(\n)', supportedOSVersions='(\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>",
+    "<IDEITunesConnectApplicationVersionDescription: 0x7f929658fc50; name='Konya Sanal Market', displayableDescription='(null)', platformIdentifier='com.apple.platform.iphoneos', bundleIdentifier='com.ilyas666.KonyaSanalMarket666', marketingVersion='(null)', shortVersion='1.0', version='1', generations='(\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296595700; sliceUUIDs='(null)'>\",\n    \"<IDEITunesConnectGenerationDescription: 0x7f9296599510; sliceUUIDs='(\\n    \\\"3a66579c-57f1-381f-b140-f9ba8376ca53\\\"\\n)'>\"\n)', imageURL='https://a3.mzstatic.com/us/r30/Purple123/v4/b9/fe/d3/b9fed357-511b-cbb2-db3b-5ef31a7fa9d4/AppIcon-1x_U007emarketing-0-7-0-85-220.png?downloadKey=1593694073_e3b8fe578cda1e206f6d730fe5be352a', extensions='(\n)', supportedOSVersions='(\n    \"2.0\",\n    \"2.1\",\n    \"2.2\",\n    \"3.0\",\n    \"3.1\",\n    \"3.2\",\n    \"4.0\",\n    \"4.1\",\n    \"4.2\",\n    \"4.3\",\n    \"5.0\",\n    \"5.1\",\n    \"6.0\",\n    \"6.1\",\n    \"7.0\",\n    \"7.1\",\n    \"8.0\",\n    \"8.1\",\n    \"8.2\",\n    \"8.3\",\n    \"8.4\",\n    \"9.0\",\n    \"9.1\",\n    \"9.2\",\n    \"9.3\",\n    \"9.9\"\n)', supportedDevices='(\n)', wasApprovedForInternalTestFlightDistribution='1', wasApprovedForPrereleaseDistribution='0', wasApprovedForSaleDistribution='0'>"
+)'>; error: (null)

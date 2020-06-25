@@ -12,9 +12,10 @@ import WebKit
 
 class ViewController: UIViewController {
     
-    
     private lazy var url = URL(string: "https://www.besyol.com.tr")!
+    
     private weak var webView: WKWebView!
+    
     var popupWebView : WKWebView!
     
     var ActInt = UIActivityIndicatorView()
@@ -22,7 +23,7 @@ class ViewController: UIViewController {
     let bottomView : UIView = {
         let view = UIView()
         view.backgroundColor = .white
-        view.heightAnchor.constraint(equalToConstant: 35).isActive = true
+        view.heightAnchor.constraint(equalToConstant: 40).isActive = true
         view.translatesAutoresizingMaskIntoConstraints = false
         return view
     }()
@@ -60,22 +61,27 @@ class ViewController: UIViewController {
         btn.heightAnchor.constraint(equalToConstant: 32).isActive = true
         return btn
     }()
-    
+
     init (url: URL, configuration: WKWebViewConfiguration) {
         super.init(nibName: nil, bundle: nil)
         self.url = url
         navigationItem.title = ""
     }
+    
     required init?(coder aDecoder: NSCoder) { super.init(coder: aDecoder) }
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        view.backgroundColor = .white
         
         print("Nicatalibli:ViewControlelr:\(Cache.website)")
         
-        
         initWebView()
+        
+        
+        
+        
         webView.loadPage(address: url)
         
         ActInt.color = .black
@@ -84,22 +90,9 @@ class ViewController: UIViewController {
         ActInt.startAnimating()
         ActInt.hidesWhenStopped = true
         
-        
-        
-        
-        
     }
     
-    
-    
-    override func viewWillAppear(_ animated: Bool) {
-        if Cache.website == ""{
-            url = URL(string: "https://www.besyol.com.tr")!
-        }else{
-            url = URL(string: "\(Cache.website)")!
-        }
-    }
-    
+   
     private func initWebView() {
         let prefs = WKPreferences()
         prefs.javaScriptEnabled = true
@@ -129,19 +122,14 @@ class ViewController: UIViewController {
             
             _ = bottomView.anchor(top: nil, bottom: view.safeAreaLayoutGuide.bottomAnchor, leading: view.leadingAnchor, trailing: view.trailingAnchor)
             
-            _ = btnLeft.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: bottomView.leadingAnchor, trailing: nil,padding: .init(top: 0, left: 5, bottom: 0, right: 0))
+            _ = btnLeft.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: bottomView.leadingAnchor, trailing: nil,padding: .init(top: 0, left: 10, bottom: 0, right: 0))
             _ = btnRight.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: btnLeft.trailingAnchor, trailing: nil,padding: .init(top: 0, left: 10, bottom: 0, right: 0))
             
-            btnCancel.trailingAnchor.constraint(equalTo: bottomView.trailingAnchor,constant: -7).isActive = true
+            btnCancel.trailingAnchor.constraint(equalTo: bottomView.trailingAnchor,constant: -10).isActive = true
             btnCancel.merkezYSuperView()
             
-            
-            btnRefresh.trailingAnchor.constraint(equalTo: btnCancel.leadingAnchor,constant: -7).isActive = true
+            btnRefresh.trailingAnchor.constraint(equalTo: btnCancel.leadingAnchor,constant: -10).isActive = true
             btnRefresh.merkezYSuperView()
-            
-    
-            
-            
             
         }else{
             popupWebView.topAnchor.constraint(equalTo: view.topAnchor).isActive = true
@@ -151,14 +139,14 @@ class ViewController: UIViewController {
             
             _ = bottomView.anchor(top: nil, bottom: view.bottomAnchor, leading: view.leadingAnchor, trailing: view.trailingAnchor)
             
-            _ = btnLeft.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: bottomView.leadingAnchor, trailing: nil,padding: .init(top: 0, left: 5, bottom: 0, right: 0))
+            _ = btnLeft.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: bottomView.leadingAnchor, trailing: nil,padding: .init(top: 0, left: 10, bottom: 0, right: 0))
             _ = btnRight.anchor(top: bottomView.topAnchor, bottom: bottomView.bottomAnchor, leading: btnLeft.trailingAnchor, trailing: nil,padding: .init(top: 0, left: 10, bottom: 0, right: 0))
             
-            btnCancel.trailingAnchor.constraint(equalTo: bottomView.trailingAnchor,constant: -7).isActive = true
+            btnCancel.trailingAnchor.constraint(equalTo: bottomView.trailingAnchor,constant: -10).isActive = true
             btnCancel.merkezYSuperView()
             
-           btnRefresh.trailingAnchor.constraint(equalTo: btnCancel.leadingAnchor,constant: -7).isActive = true
-           btnRefresh.merkezYSuperView()
+            btnRefresh.trailingAnchor.constraint(equalTo: btnCancel.leadingAnchor,constant: -10).isActive = true
+            btnRefresh.merkezYSuperView()
             
             
         }
